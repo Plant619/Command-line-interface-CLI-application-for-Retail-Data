@@ -33,4 +33,4 @@ Technologies Used
 Setup
 1. Type npm install in terminal
 2. Run server (node server.js)
-3. Run program 
+3. Run program (node client.js)
