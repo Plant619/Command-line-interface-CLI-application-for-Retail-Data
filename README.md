@@ -29,3 +29,8 @@ Technologies Used
 - REST API
 - readline-sync
 - node-fetch
+
+Setup
+1. Type npm install in terminal
+2. Run server (node server.js)
+3. Run program 
